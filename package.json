@@ -1,6 +1,7 @@
 {
-  "name": "story-app",
-  "version": "0.1.0",
+  "name": "@amreshdev/storybook-app",
+  "version": "1.0.1",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
@@ -51,5 +52,24 @@
     "@storybook/react": "^6.0.28",
     "babel-loader": "^8.1.0",
     "react-is": "^17.0.1"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amresh1993/storybook-app.git"
+  },
+  "keywords": [
+    "storybook",
+    "exmple"
+  ],
+  "author": "Amresh Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amresh1993/storybook-app/issues"
+  },
+  "homepage": "https://github.com/amresh1993/storybook-app#readme",
+  "publishConfig": {
+    "access": "public"
   }
 }
